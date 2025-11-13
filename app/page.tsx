@@ -58,10 +58,10 @@ const Page = () => {
           Have questions, want a custom insignia, or a personal design collaboration? Reach out today!
         </p>
         <a
-          href="mailto:herbertrice@tightonclothing.com"
+          href="mailto:Tightonclothing@gmail.com"
           className="text-xl text-red-500 hover:text-yellow-400 font-medium transition"
         >
-          herbertrice@tightonclothing.com
+          Tightonclothing@gmail.com
         </a>
       </section>
 
